@@ -12,7 +12,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/360EntSecGroup-Skylar/goreporter/linters/spellcheck/misspell"
+	"github.com/AshleyDumaine/goreporter/linters/spellcheck/misspell"
 )
 
 var (

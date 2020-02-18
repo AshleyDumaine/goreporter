@@ -3,8 +3,8 @@ package engine
 import (
 	"fmt"
 
-	"github.com/360EntSecGroup-Skylar/goreporter/linters/gofmt"
-	"github.com/360EntSecGroup-Skylar/goreporter/utils"
+	"github.com/AshleyDumaine/goreporter/linters/gofmt"
+	"github.com/AshleyDumaine/goreporter/utils"
 )
 
 type StrategyGoFmt struct {
